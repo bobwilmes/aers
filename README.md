@@ -1,12 +1,12 @@
 # aers
 ![ARRL logo](https://www.arrl.org/images/view/News/ARRL_Diamond_2021_Black_RGB.jpg)
 ![AERS logo](https://www.arrl.org/images/view/News/ares-cl-lrg_3.jpg)\
-ARRL Amateur Radio Emergency Service Mobile App
+**ARRL Amateur Radio Emergency Service Mobile App**
 
 # Background
-The aers mobile application was written in DART for the flutter framework to
-allow use during natural disasters and emergencies to support emergency 
-communications.
+The aers mobile application was written in [DART](https://dart.dev/) using the 
+[flutter](https://flutter.dev/) framework to allow use during natural disasters 
+and emergencies to support emergency communications using [Ham Radio](http://www.arrl.org/what-is-ham-radio).
 
 The vision is a mobile device such as an iPhone or Android smart phone or
 tablet with a browser can collect information in forms at a field location
