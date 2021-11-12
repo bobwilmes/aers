@@ -1,5 +1,21 @@
 # aers
+https://www.arrl.org/images/view/News/ARRL_Diamond_2021_Black_RGB.jpg
+https://www.arrl.org/images/view/News/ares-cl-lrg_3.jpg
 ARRL Amateur Radio Emergency Service Mobile App
+
+# Background
+The aers mobile application was written in DART for the flutter framework to
+allow use during natural disasters and emergencies to support emergency 
+communications.
+
+The vision is a mobile device such as an iPhone or Android smart phone or
+tablet with a browser can collect information in forms at a field location
+including GPS address and potentially photos and transmit the data using
+HF radios with digital data. The FCC allows digital communications for
+emergency services using low data rate of 300 baud, but occasionally allows
+for higher data rates, such as that granted for Hurricane Ida.
+
+https://www.arrl.org/news/fcc-grants-temporary-waiver-to-permit-higher-symbol-rate-data-transmissions-for-hurricane-ida-traffi
 
 ## Installation
 <<flutter install>>
