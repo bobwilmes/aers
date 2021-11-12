@@ -14,8 +14,7 @@ tablet with a browser can collect information in forms at a field location
 including GPS address and potentially photos and transmit the data using
 HF radios with digital data. The FCC allows digital communications for
 emergency services using low data rate of 300 baud, but occasionally allows
-for higher data rates, such as that granted for [Hurricane Ida]
-(https://www.arrl.org/news/fcc-grants-temporary-waiver-to-permit-higher-symbol-rate-data-transmissions-for-hurricane-ida-traffi).
+for higher data rates, such as that granted for [Hurricane Ida](https://www.arrl.org/news/fcc-grants-temporary-waiver-to-permit-higher-symbol-rate-data-transmissions-for-hurricane-ida-traffi).
 
 ## Installation
 <<flutter install>>
