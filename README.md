@@ -1,7 +1,6 @@
 ** aers - ARRL Amateur Radio Emergency Service Mobile App**
 ![ARRL logo](https://www.arrl.org/images/view/News/ARRL_Diamond_2021_Black_RGB.jpg)
-![AERS logo](https://www.arrl.org/images/view/News/ares-cl-lrg_3.jpg)\
-
+![AERS logo](https://www.arrl.org/images/view/News/ares-cl-lrg_3.jpg)
 
 # Background
 The aers mobile application was written in [DART](https://dart.dev/) using the 
