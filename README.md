@@ -6,7 +6,7 @@
 
 # Background
 The aers mobile application was written in [DART](https://dart.dev/) using the 
-[flutter](https://flutter.dev/) framework to allow use during natural disasters 
+[flutter](https://flutter.dev/) framework to enable data collection and transmission during natural disasters 
 and emergencies to support emergency communications using [Ham Radio](http://www.arrl.org/what-is-ham-radio).
 
 The vision is a mobile device such as an iPhone or Android smart phone or
