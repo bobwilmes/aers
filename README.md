@@ -28,6 +28,9 @@ net control and message handling called the [National Traffic System (NTS)](http
 
 ## Getting Started
 
+# Legal
+  
+All trademarks, service marks and company names are the property of their respective owners.
   
 # License
 MIT License
