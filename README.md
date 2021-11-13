@@ -35,7 +35,7 @@ All trademarks, service marks and company names are the property of their respec
 # License
 MIT License
   
-Copyright (c) Bob Wilmes and others 2021
+Copyright @copy; Bob Wilmes and others 2021
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
