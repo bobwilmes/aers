@@ -23,8 +23,11 @@ information (PII) is not exchanged as the data in unencrypted and is sent on a b
 
 The [American Radio Relay League (ARRL)](http://arrl.org/) publishes extensive guidelines for emergency
 net control and message handling called the [National Traffic System (NTS)](http://www.arrl.org/nts)&trade;
-## Installation
-<<flutter install>>
+# Installation
+1. Install [Flutter](https://flutter.dev/docs/get-started/install) for your development environment. Supported environments include Windows, macos, Linux and Chrome OS.
+2. Run the command line "flutter doctor" to verify that the install is correct.
+3. Install [Git](https://github.com/git-guides/install-git) your development environment. Supported environments include Windows, macos, Linux (if not already installed)
+4. Run the command "git --version" to make sure it is running correctly
 
 ## Getting Started
 
