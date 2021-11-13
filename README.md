@@ -22,7 +22,7 @@ blockages such as bridges out or highways destroyed or blocked. Typicaly persona
 information (PII) is not exchanged as the data in unencrypted and is sent on a broadcast channel.
 
 The [American Radio Relay League (ARRL)](http://arrl.org/) publishes extensive guidelines for emergency
-net control and message handling called the [National Traffic System (NTS)&#174](http://www.arrl.org/nts)
+net control and message handling called the [National Traffic System (NTS)](http://www.arrl.org/nts)&#174
 
 
 ## Installation
