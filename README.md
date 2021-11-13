@@ -28,6 +28,8 @@ net control and message handling called the [National Traffic System (NTS)](http
 2. Run the command line "flutter doctor" to verify that the install is correct.
 3. Install [Git](https://github.com/git-guides/install-git) your development environment. Supported environments include Windows, macos, Linux (if not already installed)
 4. Run the command "git --version" to make sure it is running correctly
+5. Clone the git repository by entering the command "git --clone https://github.com/bobwilmes/aers.git"
+
 
 ## Getting Started
 
