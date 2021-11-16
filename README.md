@@ -28,10 +28,18 @@ net control and message handling called the [National Traffic System (NTS)](http
 2. Run the command line "flutter doctor" to verify that the install is correct.
 3. Install [Git](https://github.com/git-guides/install-git) your development environment. Supported environments include Windows, macos, Linux (if not already installed)
 4. Run the command "git --version" to make sure it is running correctly
-5. Clone the git repository by entering the command "git --clone https://github.com/bobwilmes/aers.git"
+5. Clone the git repository by entering the command "git --clone https://github.com/bobwilmes/aers"
 
 
 ## Getting Started
+
+Digital forms of ham radio communications are limited between 300 baud and 1200 baud
+based on [bandwith restrictions of 2.8KHz in the United States](https://www.arrl.org/news/arrl-renews-request-for-fcc-to-replace-symbol-rate-with-bandwidth-limit).
+
+Manuafacturers of ham radios including [Yaseu Systemfusion](http://systemfusion.yaesu.com/what-is-system-fusion/)
+and [Icom DSTAR](https://www.icomamerica.com/en/products/amateur/dstar/dstar/default.aspx) who partners with
+[Kenwood](https://www.kenwood.com/usa/com/amateur/th-d74a/) have developed
+proprietary digital codecs for transmitting up to 9600 bits per second.
 
 ## Architecture
 ![aers Architecture](images/aersarchitecture.jpg)
@@ -40,7 +48,10 @@ All trademarks, service marks and company names are the property of their respec
 
 # Academic
 
-This project was created for partial credit in CYBR8470 Secure Web App Development- Fall Semester 2021 at the University of Nebraska at Omaha
+This project was created for partial credit in:
+CYBR8470 Secure Web App Development
+Fall Semester 2021
+University of Nebraska at Omaha
 
 # License
 BSD License
