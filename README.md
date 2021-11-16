@@ -38,10 +38,21 @@ manufacturer or the manufacturer's licensees, and are protected by proprietary p
 
 Recently open source projects such as [FreeDV](https://freedv.org/) have developed new codecs which
 enable digital codecs that can be used on any open platform. The project is open source on [Github](https://github.com/drowe67/freedv-gui)
+An Australian ham radio operator, David Rowe, has released the open source for[Codec2](https://github.com/drowe67/codec2)
+which is a low bandwidth open source codec for encoding/decoding digital communications on an audio
+bitstream.
+
 
 ## Architecture
 ![aers Architecture](images/aersarchitecture.jpg)
 
+The aers applications is designed to build communications of an emergency nature for transmission and
+reception over HF ham radio. This might possibly include the GPS location of the mobile device,
+the call sign of the ham operating the mobile device, items such as lists of emergency supplies needed.
+It's expected that locations of transportation blockages such as bridges or roads that are blocked or
+damaged might also be needed. Some mobile device capability such as photographs might be sent using
+a technique called slow scan television. Some voice audio communications can also be exchanged, although
+the bandwidth of voicemail communications would be restricted.
 
 
 ## Installation
