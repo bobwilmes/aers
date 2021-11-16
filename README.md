@@ -34,7 +34,7 @@ net control and message handling called the [National Traffic System (NTS)](http
 ## Getting Started
 
 ## Architecture
-![aers Architecture]("https://github.com/bobwilmes/aers/images/aersarchitecture.jpg"?raw=true)
+![aers Architecture]("https://github.com/bobwilmes/aers/blob/images/aersarchitecture.jpg"?raw=true)
 
 All trademarks, service marks and company names are the property of their respective owners.
 
