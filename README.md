@@ -1,5 +1,5 @@
 ## aers
-## This is an unfinished work in progress
+## Note: this is an unfinished work in progress as of Nov 2021
 
 ![ARRL logo](https://www.arrl.org/images/view/News/ARRL_Diamond_2021_Black_RGB.jpg)
 ![AERS logo](https://www.arrl.org/images/view/News/ares-cl-lrg_3.jpg)\
