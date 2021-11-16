@@ -1,5 +1,5 @@
 ## aers
-## Note: this is an unfinished work in progress as of Nov 2021
+## Note: this is an unfinished work in progress as of Nov 15, 2021
 
 ![ARRL logo](https://www.arrl.org/images/view/News/ARRL_Diamond_2021_Black_RGB.jpg)
 ![AERS logo](https://www.arrl.org/images/view/News/ares-cl-lrg_3.jpg)\
@@ -46,7 +46,7 @@ bitstream.
 ## Architecture
 ![aers Architecture](images/aersarchitecture.jpg)
 
-The aers applications is designed to build communications of an emergency nature for transmission and
+The aers application is designed to build communications of an emergency nature for transmission and
 reception over HF ham radio. This might possibly include the GPS location of the mobile device,
 the call sign of the ham operating the mobile device, items such as lists of emergency supplies needed.
 It's expected that locations of transportation blockages such as bridges or roads that are blocked or
