@@ -65,6 +65,10 @@ uses Microsoft's Visual Studio Code which has a Flutter plug-in available.
 # Flutter Doctor verifying the installation
 ![Flutter Doctor verifying the installation](images/flutterdoctor.png)
 
+# Flutter Geolocator PlugIn
+There is an [open source geolocator plugin](https://pub.dev/packages/geolocator) available from pub.dev
+for obtaining geolocation on Andriod, iOS, macOS and web clients.
+
 ## Installation
 1. Install [Flutter](https://flutter.dev/docs/get-started/install) for your development environment. Supported environments include Windows, macos, Linux and Chrome OS.
 2. Run the command line "flutter doctor" to verify that the install is correct.
