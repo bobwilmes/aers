@@ -59,8 +59,10 @@ Flutter is a system independent open source framework which was developed by Goo
 the open source DART programming language. In order to develop Flutter with github, the project
 uses Microsoft's Visual Studio Code which has a Flutter plug-in available.
 
+# Flutter setup using Visual Studio Code on Ubuntu
 ![Flutter setup using Visual Studio Code on Ubuntu](images/flutterdev.png)
 
+# Flutter Doctor verifying the installation
 ![Flutter Doctor verifying the installation](images/flutterdoctor.png)
 
 ## Installation
