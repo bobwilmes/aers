@@ -103,7 +103,7 @@ There is [AES128 and 256 bit encryption](https://medium.com/flutter-community/ke
   Note this builds all libraries locally, nothing is installed on your machine.  ```make install``` is not required.
 ## Ham Radio
 
-[FEMA: Amateur Radio Emergency Communications Video](https://www.youtube.com/watch?v=VUbmxOooEYI)
+[FEMA: Amateur Radio Emergency Communications Video](https://www.youtube.com/watch?v=VUbmxOooEYI)  
 Using [DSTAR to send pictures](https://www.youtube.com/watch?v=4sBqZ1uVEGA)
   
 ## Academic
