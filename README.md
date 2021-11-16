@@ -74,6 +74,9 @@ There is an [open source bluetooth plugin](https://pub.dev/packages/flutter_blue
 for obtaining Bluetooth Low Energy communications. Another library from [FlutterDev](https://github.com/flutter-devs/flutter_bluetooth)
 is also available.
 
+# Flutter Encryption
+There is [AES128 and 256 bit encryption](https://medium.com/flutter-community/keep-and-encrypt-data-with-flutter-efea5e8aa97e) available using Flutter which is platform independent.
+
 ## Installation
 1. Install [Flutter](https://flutter.dev/docs/get-started/install) for your development environment. Supported environments include Windows, macos, Linux and Chrome OS.
 2. Run the command line "flutter doctor" to verify that the install is correct.
