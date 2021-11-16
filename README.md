@@ -33,14 +33,19 @@ net control and message handling called the [National Traffic System (NTS)](http
 
 ## Getting Started
 
-# Legal
-  
+## Architecture
+![aers Architecture](https://github.com/bobwilmes/aers/aersarchitecture.jpg?raw=true)
+
 All trademarks, service marks and company names are the property of their respective owners.
-  
+
+# Academic
+
+This project was created for partial credit in CYBR8470 Secure Web App Development- Fall Semester 2021 at the University of Nebraska at Omaha
+
 # License
 BSD License
   
-Copyright &copy; Bob Wilmes and others 2021
+Copyright &copy; Bob Wilmes AG0LF and others 2021
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
