@@ -1,4 +1,5 @@
-# aers
+## aers
+## This is an unfinished work in progress
 
 ![ARRL logo](https://www.arrl.org/images/view/News/ARRL_Diamond_2021_Black_RGB.jpg)
 ![AERS logo](https://www.arrl.org/images/view/News/ares-cl-lrg_3.jpg)\
@@ -23,13 +24,6 @@ information (PII) is not exchanged as the data in unencrypted and is sent on a b
 
 The [American Radio Relay League (ARRL)](http://arrl.org/) publishes extensive guidelines for emergency
 net control and message handling called the [National Traffic System (NTS)](http://www.arrl.org/nts)&trade;
-# Installation
-1. Install [Flutter](https://flutter.dev/docs/get-started/install) for your development environment. Supported environments include Windows, macos, Linux and Chrome OS.
-2. Run the command line "flutter doctor" to verify that the install is correct.
-3. Install [Git](https://github.com/git-guides/install-git) your development environment. Supported environments include Windows, macos, Linux (if not already installed)
-4. Run the command "git --version" to make sure it is running correctly
-5. Clone the git repository by entering the command "git --clone https://github.com/bobwilmes/aers"
-
 
 ## Getting Started
 
@@ -45,12 +39,17 @@ manufacturer or the manufacturer's licensees, and are protected by proprietary p
 Recently open source projects such as [FreeDV](https://freedv.org/) have developed new codecs which
 enable digital codecs that can be used on any open platform. The project is open source on [Github](https://github.com/drowe67/freedv-gui)
 
-
-
 ## Architecture
 ![aers Architecture](images/aersarchitecture.jpg)
 
-All trademarks, service marks and company names are the property of their respective owners.
+
+
+## Installation
+1. Install [Flutter](https://flutter.dev/docs/get-started/install) for your development environment. Supported environments include Windows, macos, Linux and Chrome OS.
+2. Run the command line "flutter doctor" to verify that the install is correct.
+3. Install [Git](https://github.com/git-guides/install-git) your development environment. Supported environments include Windows, macos, Linux (if not already installed)
+4. Run the command "git --version" to make sure it is running correctly
+5. Clone the git repository by entering the command "git --clone https://github.com/bobwilmes/aers"
 
 ## Building on Ubuntu Linux (16-20)
   ```
@@ -73,10 +72,14 @@ All trademarks, service marks and company names are the property of their respec
   
 ## Academic
 
-This project was created for partial credit in:
-CYBR8470 Secure Web App Development
-Fall Semester 2021
-University of Nebraska at Omaha
+This project was created for partial credit in:  
+CYBR8470 Secure Web App Development  
+Fall Semester 2021  
+University of Nebraska at Omaha  
+
+## Legal
+
+All trademarks, service marks and company names are the property of their respective owners.
 
 # License
 BSD License
