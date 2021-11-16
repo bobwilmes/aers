@@ -38,15 +38,40 @@ based on [bandwith restrictions of 2.8KHz in the United States](https://www.arrl
 
 Manuafacturers of ham radios including [Yaseu Systemfusion](http://systemfusion.yaesu.com/what-is-system-fusion/)
 and [Icom DSTAR](https://www.icomamerica.com/en/products/amateur/dstar/dstar/default.aspx) who partners with
-[Kenwood](https://www.kenwood.com/usa/com/amateur/th-d74a/) have developed
-proprietary digital codecs for transmitting up to 9600 bits per second.
+[Kenwood](https://www.kenwood.com/usa/com/amateur/th-d74a/) have developed proprietary digital codecs for 
+transmitting up to 9600 bits per second. These proprietary technologies only work between radios in the same 
+manufacturer or the manufacturer's licensees, and are protected by proprietary patents.
+
+Recently open source projects such as [FreeDV](https://freedv.org/) have developed new codecs which
+enable digital codecs that can be used on any open platform. The project is open source on [Github](https://github.com/drowe67/freedv-gui)
+
+
 
 ## Architecture
 ![aers Architecture](images/aersarchitecture.jpg)
 
 All trademarks, service marks and company names are the property of their respective owners.
 
-# Academic
+## Building on Ubuntu Linux (16-20)
+  ```
+  $ sudo apt install libspeexdsp-dev libsamplerate0-dev sox git \
+  libwxgtk3.0-gtk3-dev portaudio19-dev libhamlib-dev libasound2-dev libao-dev \
+  libgsm1-dev libsndfile-dev cmake module-assistant build-essential
+  $ git clone https://github.com/bobwilmes/aers.git
+  $ cd aers
+  $ ./build_linux.sh
+  ```
+  
+
+  Then run with:
+  ```
+  $ ./build_linux/src/aers
+  ```
+  
+  Note this builds all libraries locally, nothing is installed on your machine.  ```make install``` is not required.
+
+  
+## Academic
 
 This project was created for partial credit in:
 CYBR8470 Secure Web App Development
