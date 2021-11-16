@@ -71,7 +71,8 @@ for obtaining geolocation on Andriod, iOS, macOS and web clients.
 
 # Flutter Bluetooth PlugIn
 There is an [open source bluetooth plugin](https://pub.dev/packages/flutter_blue) available from pub.dev
-for obtaining Bluetooth Low Energy communications.
+for obtaining Bluetooth Low Energy communications. Another library from [FlutterDev](https://github.com/flutter-devs/flutter_bluetooth)
+is also available.
 
 ## Installation
 1. Install [Flutter](https://flutter.dev/docs/get-started/install) for your development environment. Supported environments include Windows, macos, Linux and Chrome OS.
