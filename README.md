@@ -105,7 +105,14 @@ There is [AES128 and 256 bit encryption](https://medium.com/flutter-community/ke
 
 [FEMA: Amateur Radio Emergency Communications Video](https://www.youtube.com/watch?v=VUbmxOooEYI)  
 Using [DSTAR to send pictures](https://www.youtube.com/watch?v=4sBqZ1uVEGA)
-  
+
+## References
+[ASUS USB-BT500](https://www.asus.com/us/Networking-IoT-Servers/Adapters/All-series/USB-BT500/HelpDesk_Download/)
+This is the Bluetooth adapter used by the Ubuntu 20.04 development machine.
+This has been verified to pair and work with iPhone 12 Pro/iOS version 15.1
+
+
+
 ## Academic
 
 This project was created for partial credit in:  
