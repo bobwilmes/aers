@@ -1,5 +1,5 @@
 ## aers
-## Note: this is an unfinished work in progress as of Nov 15, 2021
+## Note: this is an unfinished work in progress as of December 2, 2021
 
 ![ARRL logo](https://www.arrl.org/images/view/News/ARRL_Diamond_2021_Black_RGB.jpg)
 ![AERS logo](https://www.arrl.org/images/view/News/ares-cl-lrg_3.jpg)\
@@ -110,8 +110,10 @@ Using [DSTAR to send pictures](https://www.youtube.com/watch?v=4sBqZ1uVEGA)
 [ASUS USB-BT500](https://www.asus.com/us/Networking-IoT-Servers/Adapters/All-series/USB-BT500/HelpDesk_Download/)  
 This is the Bluetooth adapter used by the Ubuntu 20.04 development machine.  
 This has been verified to pair and work with iPhone 12 Pro/iOS version 15.1 and Ubuntu20.04 LTS   
-
-
+[Flutter Embedded](https://flutter.dev/multi-platform/embedded)  
+A version of Flutter for use on embedded versions of Linux  
+[Google Fonts](https://fonts.google.com/specimen/Raleway#standard-styles)    
+Use Google Fonts  
 
 ## Academic
 
