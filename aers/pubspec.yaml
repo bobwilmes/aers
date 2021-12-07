@@ -77,6 +77,11 @@ flutter:
   assets:
   - images/aerslogo.png
   - images/aers_cl.jpg
+  - hamoperators/WD0BFO.jpg
+  - hamoperators/KA0RG.jpg
+  - hamoperators/W0DBW.jpg
+  - hamoperators/N0HWJ.jpg
+  - hamoperators/AG0LF.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

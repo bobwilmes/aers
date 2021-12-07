@@ -43,30 +43,36 @@ final String server =
 
 final List<HamOperator> _HamOperators = <HamOperator>[
   HamOperator(
-      callsign: 'K0AAB',
-      name: 'Bill Wilson',
+      callsign: 'WD0BFO',
+      name: 'Tom Huber',
       description:
           'Amateur Extra Class, Volunteer Examiner,HF ICOM-7300,UHF Kenwood',
       section: 11,
-      imageUrl: 'http://$server:8000/HamOperatorK0AAB.jpg'),
+      imageUrl: 'hamoperators/WD0BFO.jpg'),
   HamOperator(
-      callsign: 'W7JSH',
-      name: 'Mary Smith',
+      callsign: 'KA0RG',
+      name: 'Ron Gaspard',
       description: 'Amateur Technician Class, QRP and 2-meter Handy Talkie',
       section: 2,
-      imageUrl: 'http://$server:8000/HamOperatorW7JSH.jpg'),
+      imageUrl: 'hamoperators/KA0RG.jpg'),
   HamOperator(
-      callsign: 'KX8SKL',
-      name: 'Duke Allison',
+      callsign: 'WD0DBW',
+      name: 'Derek Winstein',
       description: 'Amateur General Class, 10 meter HF, AMSAT',
       section: 3,
-      imageUrl: 'http://$server:8000/HamOperatorKX8SKL.jpg'),
+      imageUrl: 'hamoperators/W0DBW.jpg'),
   HamOperator(
-      callsign: 'W1XXZ',
-      name: 'Ajit Dasari',
+      callsign: 'N0HWJ',
+      name: 'Don Lallier',
       description: 'Amateur General Class, Digital Modes DSTAR, FT8',
       section: 4,
-      imageUrl: 'http://$server:8000/HamOperatorW1XXZ.jpg')
+      imageUrl: 'hamoperators/N0HWJ.jpg'),
+  HamOperator(
+      callsign: 'AG0LF',
+      name: 'Bob Wilmes',
+      description: 'Amateur General Class, Digital Modes DSTAR, FT8',
+      section: 4,
+      imageUrl: 'hamoperators/AG0LF.jpg')
 ];
 
 class HamOperatorPage extends StatelessWidget {
@@ -78,10 +84,14 @@ class HamOperatorPage extends StatelessWidget {
     return SimpleDialog(
       contentPadding: EdgeInsets.zero,
       children: [
-        Image.network(
+        Image.asset(
           HamOperator.imageUrl,
           fit: BoxFit.fill,
         ),
+        //       Image.network(
+        //         HamOperator.imageUrl,
+        //         fit: BoxFit.fill,
+        //       ),
         Padding(
             padding: const EdgeInsets.all(16.0),
             child: Column(

@@ -84,7 +84,7 @@ There is [AES128 and 256 bit encryption](https://medium.com/flutter-community/ke
 4. Run the command "git --version" to make sure it is running correctly
 5. Clone the git repository by entering the command "git --clone https://github.com/bobwilmes/aers"
 
-## Building on Ubuntu Linux (16-20)
+## Building on Ubuntu Linux (Versions 16-20.04)
   ```
   $ sudo apt install libspeexdsp-dev libsamplerate0-dev sox git \
   libwxgtk3.0-gtk3-dev portaudio19-dev libhamlib-dev libasound2-dev libao-dev \
@@ -113,7 +113,9 @@ This has been verified to pair and work with iPhone 12 Pro/iOS version 15.1 and 
 [Flutter Embedded](https://flutter.dev/multi-platform/embedded)  
 A version of Flutter for use on embedded versions of Linux  
 [Google Fonts](https://fonts.google.com/specimen/Raleway#standard-styles)    
-Use Google Fonts  
+aers uses Google Fonts  
+[Winlink](https://www.winlink.org/)
+Winlink is a global e-mail systems for Amateur Radio users
 
 ## Academic
 
