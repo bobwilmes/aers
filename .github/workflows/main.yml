@@ -79,4 +79,4 @@ jobs:
           password: ${{ secrets.GITHUB_TOKEN }}
 
 
-  tags: ghcr.io/${{ github.repository_owner }}/aers:latest
+# tags: ghcr.io/${{ github.repository_owner }}/aers:latest
